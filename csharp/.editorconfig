@@ -1,0 +1,5 @@
+Should I use
+https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-style-rule-options
+or
+https://github.com/dotnet/roslyn/raw/main/.editorconfig
+for my projects?
